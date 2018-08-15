@@ -2,7 +2,7 @@ import { actionTypes } from "../config";
 
 const INITIAL_STATE = {
   hideDisplay: false,
-  displayValue: "12",
+  displayValue: "0",
   memoryValue: 0,
   currentValue: null,
   currentOperator: null

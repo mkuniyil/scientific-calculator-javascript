@@ -1,6 +1,6 @@
 ## Introduction
 
-I have created the calculator UI as mentioned per the challenge.
+This is a project which replicates the casio caluculator in it's UI and functionality.
 
 ## Tech Stack
 
